@@ -1,4 +1,4 @@
-package imersaoaojava;
+package _2_estrutura_sequencial;
 
 import java.util.Locale;
 
